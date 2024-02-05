@@ -309,44 +309,53 @@
     "marquee-list" : [
       {
         "id" : 1,
-        "image" : "https://www.adobe.com/content/dam/cc/icons/illustrator.svg",
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-illustrator-icon.png",
         "title" : "adobe illustrator"
       },
       {
         "id" : 2,
-        "image" : "../public/assets/image/ic-marquee-bootstrap.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png",
+        "title" : "bootstrap"
       },
       {
         "id" : 3,
-        "image" : "../public/assets/image/ic-marquee-css.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png",
+        "title" : "CSS"
       },
       {
         "id" : 4,
-        "image" : "../public/assets/image/ic-marquee-figma.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png",
+        "title" : "Figma"
       },
       {
         "id" : 5,
-        "image" : "../public/assets/image/ic-marquee-framer-motion.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/framer-color-icon.png",
+        "title" : "Framer Motion"
       },
       {
         "id" : 6,
-        "image" : "../public/assets/image/ic-marquee-html.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png",
+        "title" : "HTML"
       },
       {
         "id" : 7,
-        "image" : "../public/assets/image/ic-marquee-js.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png",
+        "title" : "Javascript"
       },
       {
         "id" : 8,
-        "image" : "../public/assets/image/ic-marquee-reactjs.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png",
+        "title" : "ReactJS"
       },
       {
         "id" : 9,
-        "image" : "../public/assets/image/ic-marquee-sass.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sass-icon.png",
+        "title" : "SASS"
       },
       {
         "id" : 10,
-        "image" : "../public/assets/image/ic-marquee-tailwindcss.svg"
+        "image" : "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png",
+        "title" : "Tailwind Css"
       }
     ],
 
