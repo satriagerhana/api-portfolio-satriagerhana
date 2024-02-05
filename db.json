@@ -1,0 +1,447 @@
+
+{
+    "navbar-menu": [
+      {
+        "id": 1,
+        "path": "/",
+        "title": "Home"
+      },
+      {
+        "id": 2,
+        "path": "/portfolio",
+        "title": "Portfolio"
+      },
+      {
+        "id": 3,
+        "path": "/about-me",
+        "title": "About Me"
+      },
+      {
+        "id": 4,
+        "path": "/contact-me",
+        "title": "Contact"
+      }
+    ],
+  
+    "personal-data" : [
+      {
+        "imgProfile" : "../public/assets/image/img-profile.png",
+        "name" : "Satria Gerhana",
+        "nationality" : "Indonesia",
+        "address" : "St. Sarijadi, Bandung - Jawa Barat",
+        "email" : "job.satriagerhana4388@gmail.com",
+        "desc" : "Hello, I’m Satria, a dedicated Web Designer passionate about creating digital experiences that look beautiful and function seamlessly. \n\n My journey in the design world started in 2020 since then, I’ve been on an exciting quest to craft innovative and user-centered solutions that make a difference. \n\n My work is driven by the belief that exceptional design can profoundly impact how people interact with technology. Whether it’s a mobile app, a website, or any digital interface",
+        "phone" : "(+62)82315209177",
+        "birth" : "04 March 1988"
+      }
+    ],
+  
+    "education": [
+      {
+        "id": 1,
+        "degree": "D3 - Informatics Management",
+        "institution": "Politeknik Komputer Niaga LPKIA",
+        "year": "2007 - 2010",
+        "certificate" : [
+          "../public/assets/doc/certificateD3.jpg",
+          "../public/assets/doc/certificateTranskrip.jpg"
+        ]
+      },
+      {
+        "id" : 2,
+        "degree" : "Senior High School - Hospitality",
+        "institution" : "SMIP ICB - Cinta Wisata",
+        "year" : "2003 - 2006",
+        "certificate" : ""
+      },
+      {
+        "id" : 3,
+        "degree" : "Junior High School",
+        "institution" : "Indonesia Raya",
+        "year" : "2000 - 2003",
+        "certificate" : ""
+      }
+    ],
+  
+    "course": [
+      {
+        "id": 1,
+        "courseName": "ReactJs and Node JS",
+        "courseInstitue": "Bootcamp PT Walden Global Services",
+        "completeYear": "2022",
+        "certificate": "../public/assets/doc/certificateWGS.jpg"
+      },
+      {
+        "id": 2,
+        "courseName": "Figma UI Animation Design",
+        "courseInstitue": "Build With Angga",
+        "completeYear": "2021",
+        "certificate": "../public/assets/doc/certificateBWA.jpg"
+      },
+      {
+        "id": 3,
+        "courseName": "Beginner Frontend",
+        "courseInstitue": "Dicoding Indonesia",
+        "completeYear": "2021",
+        "certificate": [
+          "../public/assets/doc/certificateDicodingFE-1.jpg",
+          "../public/assets/doc/certificateDicodingFE-2.jpg"
+        ]
+      },
+      {
+        "id": 4,
+        "courseName": "Fundamentals Web Programming",
+        "courseInstitue": "Dicoding Indonesia",
+        "completeYear": "2020",
+        "certificate": "../public/assets/doc/certificateDicodingWebFundamentals.jpg"
+      },
+      {
+        "id": 5,
+        "courseName": "Kotlin Programming",
+        "courseInstitue": "Dicoding Indonesia",
+        "completeYear": "2020",
+        "certificate": [
+          "../public/assets/doc/certificateDicodingKotlin-1.jpg",
+          "../public/assets/doc/certificateDicodingKotlin-2(1).jpg",
+          "../public/assets/doc/certificateDicodingKotlin-2(2).jpg"
+        ]
+      },
+      {
+        "id": 6,
+        "courseName": "HTML 5 Application Development Fundamentals",
+        "courseInstitue": "Microsoft Technology Associate",
+        "completeYear": "2019",
+        "certificate": [
+          "../public/assets/doc/certificateHTML-1.jpg",
+          "../public/assets/doc/certificateHTML-2.jpg"
+        ]
+      },
+      {
+        "id": 7,
+        "courseName": "Programming",
+        "courseInstitue": "Binus Center Bandung",
+        "completeYear": "2019",
+        "certificate": [
+          "../public/assets/doc/certificateBinus-1.jpg",
+          "../public/assets/doc/certificateBinus-2.jpg"
+        ]
+      }
+    ],
+  
+    "experience": [
+      {
+        "id": 1,
+        "company" : "PT Walden Global Services",
+        "position" : "Web Designer",
+        "year" : "2022 - Present",
+        "description" : "Research client needs from the breakdown results, so that they can be adjusted to the design. Providing a general overview of the Design (LoFi) to the client to match it with the results of research that has been carried out previously. Carrying out Design (HiFi) using assets provided by the client, both images and data. Prototyping the design that has been created so that clients better understand the flow of the Mobile Application or Website Application that has been created. Carrying out Slicing / Implementation from Design to Coding such as HTML, CSS/Bootsrap/Tailwindcss, Javascript/ReactJS. So that it can be presented to clients.",
+        "certificate" : ""
+  
+      },
+      {
+        "id": 2,
+        "company" : "PT Riung Agro Lestari(Freelance)",
+        "position" : "Frontend & UI Design",
+        "year" : "2021 - 2022",
+        "description" : "Make several website application designs. Slicing HTML CSS,Bootstrap, ReactJS.",
+        "certificate" : ""
+
+      },
+      {
+        "id": 3,
+        "company" : "Wanama Catering",
+        "position" : "Owner",
+        "year" : "2012 - 2020",
+        "description" : "Record catering customer data. Make daily reports, to find out who took catering that day. Make a menu list for the week menu or month menu. Arrange delivery time and catering packing.",
+        "certificate" : ""
+
+      },
+      {
+        "id": 4,
+        "company" : "BPMPD Kabupaten Soreang",
+        "position" : "Administrasi Staff",
+        "year" : "2011 - 2012",
+        "description" : "Make monthly reports. Recap of village activity reports. Write a letter to the Office or Village. Create SPPJ. Make attendance/attendance recaps.",
+        "certificate" : "../public/assets/doc/CertificateBPMPD.jpg"
+      },
+      {
+        "id": 5,
+        "company" : "PT Indomarco Prismatama (Indomaret Group)",
+        "position" : "EDP IT Support",
+        "year" : "2011 - 2011",
+        "description" : "Computer repair/maintenance, both hardware and software. Improvement of store network. Enter shop data. Ensure all store transactions run smoothly.",
+        "certificate" : "../public/assets/doc/certificateIndomaret.jpg"
+      }
+    ],
+  
+    "expertise" : [
+      {
+        "id" : 1,
+        "title" : "Web Designer",
+        "desc" : "As a seasoned designer, my primary goal is to craft captivating and functional design concepts tailored to meet the unique needs of our clients. With a keen understanding of both aesthetic principles and user experience, I specialize in developing visually stunning and highly intuitive websites. \n\n My process involves delving deep into the client's vision and goals, ensuring that every design element aligns seamlessly with their brand identity. I meticulously create layouts that not only capture attention but also provide a user-friendly experience. Each color palette is carefully chosen to evoke the desired emotions and convey the brand message effectively. In addition to layouts, I pay meticulous attention to the selection of colors, employing a strategic approach to create a cohesive and visually appealing atmosphere. Icons, another integral part of the design, are thoughtfully curated to enhance both the aesthetics and functionality of the website. \n\n By combining creativity with technical expertise, I strive to elevate the overall user experience and ensure that the design not only meets but exceeds the expectations of our clients. My commitment lies in delivering designs that not only look great but also contribute to the success of the client's online presence.",
+        "skill" : "Figma, Ai, Html, css, js"
+      },
+      {
+        "id" : 2,
+        "title" : "Frontend Developer",
+        "desc" : "As a front-end developer, my primary focus is on crafting engaging and intuitive user interfaces that elevate the overall user experience. My responsibilities encompass ensuring that websites are not only visually appealing but also responsive and accessible across a diverse range of devices. Collaborating closely with the development team, designers, and stakeholders, I strive to deeply understand the project requirements and goals. I take pride in translating design concepts into seamless, interactive web applications that captivate users. \n\n My proficiency in the latest frontend technologies allows me to implement responsive layouts, optimize performance, and ensure cross-browser compatibility. I am dedicated to staying abreast of industry trends and best practices, continuously refining my skills to deliver cutting-edge solutions. \n\n Beyond coding, I am passionate about creating web experiences that resonate with users, paying meticulous attention to detail, and maintaining a user-centric approach throughout the development process. My goal is to contribute to the creation of web applications that not only meet but exceed user expectations, leaving a lasting and positive impression.",
+        "skill" : "ReactJS, Tailwindcss, Framer Motion, Bootstrap"
+      }
+    ],
+  
+    "tools" : [
+      {
+        "id" : 1,
+        "tools" : "Figma"
+      },
+      {
+          "id" : 2,
+          "tools" : "Visual Studio Code"
+      },
+      {
+          "id" : 3,
+          "tools" : "Adobe Ilustrator"
+      },
+      {
+          "id" : 4,
+          "tools" : "Laragon"
+      },
+      {
+          "id" : 5,
+          "tools" : "SourceTree"
+      },
+      {
+          "id" : 6,
+          "tools" : "GitHub"
+      },
+      {
+          "id" : 7,
+          "tools" : "Postman"
+      },
+      {
+          "id" : 8,
+          "tools" : "Netlify"
+      }
+    ],
+  
+    "skill" : [
+      {
+          "id" : 1,
+          "skill" : "HTML"
+      },
+      {
+          "id" : 2,
+          "skill" : "CSS"
+      },
+      {
+          "id" : 3,
+          "skill" : "Javascript"
+      },
+      {
+          "id" : 4,
+          "skill" : "ReactJS"
+      },
+      {
+          "id" : 5,
+          "skill" : "Tailwindcss"
+      },
+      {
+          "id" : 6,
+          "skill" : "Bootstrap"
+      },
+      {
+          "id" : 7,
+          "skill" : "SASS"
+      },
+      {
+          "id" : 8,
+          "skill" : "NodeJS"
+      },
+      {
+          "id" : 9,
+          "skill" : "PostgreSQL"
+      },
+      {
+          "id" : 10,
+          "skill" : "UI Design"
+      }
+    ],
+  
+    "sosial-media": [
+      {
+        "id": 1,
+        "name": "linkedin",
+        "path": "https://www.linkedin.com/in/satriagerhana/",
+        "icon": "fab fa-linkedin-in"
+      },
+      {
+        "id": 2,
+        "name": "github",
+        "path": "https://github.com/satriagerhana88",
+        "icon": "fab fa-github"
+      },
+      {
+        "id": 3,
+        "name": "behance",
+        "path": "https://www.behance.net/satriagerhana",
+        "icon": "fab fa-behance"
+      },
+      {
+        "id": 4,
+        "name": "instagram",
+        "path": "https://www.instagram.com/satriagerhana/",
+        "icon": "fab fa-instagram"
+      },
+      {
+        "id": 5,
+        "name": "facebook",
+        "path": "https://www.facebook.com/satria.gerhana/",
+        "icon": "fab fa-facebook"
+      },
+      {
+        "id": 6,
+        "name": "whatsapp",
+        "path": "https://wa.me/6282315209177",
+        "icon": "fab fa-whatsapp"
+      }
+    ],
+
+    "marquee-list" : [
+      {
+        "id" : 1,
+        "image" : "/ic-marquee-ai.svg"
+      },
+      {
+        "id" : 2,
+        "image" : "../public/assets/image/ic-marquee-bootstrap.svg"
+      },
+      {
+        "id" : 3,
+        "image" : "../public/assets/image/ic-marquee-css.svg"
+      },
+      {
+        "id" : 4,
+        "image" : "../public/assets/image/ic-marquee-figma.svg"
+      },
+      {
+        "id" : 5,
+        "image" : "../public/assets/image/ic-marquee-framer-motion.svg"
+      },
+      {
+        "id" : 6,
+        "image" : "../public/assets/image/ic-marquee-html.svg"
+      },
+      {
+        "id" : 7,
+        "image" : "../public/assets/image/ic-marquee-js.svg"
+      },
+      {
+        "id" : 8,
+        "image" : "../public/assets/image/ic-marquee-reactjs.svg"
+      },
+      {
+        "id" : 9,
+        "image" : "../public/assets/image/ic-marquee-sass.svg"
+      },
+      {
+        "id" : 10,
+        "image" : "../public/assets/image/ic-marquee-tailwindcss.svg"
+      }
+    ],
+
+    "work-recent" : [
+      {
+        "id" : 1,
+        "title" : "Payment Of Sales",
+        "desc" : "Software and applications to control all types of your business transactions",
+        "category" : "Mobile App",
+        "type" : "UI/UX Design & Slicing",
+        "thumb" : "../public/assets/image/Img-card-1.png",
+        "image" : "../public/assets/image/ImgDetail-card-1.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, CSS, Javascript, UI Design",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      },
+      {
+        "id" : 2,
+        "title" : "Online Certification",
+        "desc" : "The application website was created for employees to make it easier to submit online certification",
+        "category" : "Dashboard",
+        "type" : "UI/UX Design",
+        "thumb" : "../public/assets/image/Img-card-2.png",
+        "image" : "../public/assets/image/ImgDetail-card-2.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, CSS, Javascript, ReactJS, Tailwindcss, UI Design",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      },
+      {
+        "id" : 3,
+        "title" : "F&B Mobile",
+        "desc" : "This mobile application is used when the user wants to see several menus from several shops.",
+        "category" : "Ecommrce App",
+        "type" : "UI/UX Design & Slicing",
+        "thumb" : "../public/assets/image/Img-card-3.png",
+        "image" : "../public/assets/image/ImgDetail-card-3.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, CSS, Javascript",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      },
+      {
+        "id" : 4,
+        "title" : "Mi Record",
+        "desc" : "An application that is used to explain polish products and users can buy or approve the purchase of the polish product.",
+        "category" : "Web App",
+        "type" : "UI/UX Design & Slicing",
+        "thumb" : "../public/assets/image/Img-card-4.png",
+        "image" : "../public/assets/image/ImgDetail-card-3.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, CSS, Javascript",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      },
+      {
+        "id" : 5,
+        "title" : "Gotbeef",
+        "desc" : "The application website was created for employees to make it easier to submit online certification.",
+        "category" : "Landing Page",
+        "type" : "UI/UX Design & Slicing",
+        "thumb" : "../public/assets/image/Img-card-5.png",
+        "image" : "../public/assets/image/ImgDetail-card-3.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, CSS, Javascript",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      },
+      {
+        "id" : 6,
+        "title" : "Digi five store",
+        "desc" : "HTML5 gaming e-commerce website. Apart from buying games, the website can also be used for developers to upload games to sell.",
+        "category" : "Dashboard",
+        "type" : "Slicing",
+        "thumb" : "../public/assets/image/Img-card-6.png",
+        "image" : "../public/assets/image/ImgDetail-card-3.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, Bootstrap, Javascript",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      },
+      {
+        "id" : 7,
+        "title" : "Digi five store",
+        "desc" : "HTML5 gaming e-commerce website. Apart from buying games, the website can also be used for developers to upload games to sell.",
+        "category" : "Ecommrce App",
+        "type" : "Slicing",
+        "thumb" : "../public/assets/image/Img-card-6.png",
+        "image" : "../public/assets/image/ImgDetail-card-3.jpg",
+        "tools" : "Figma, Vs Code, Adobe Ilustrator",
+        "tech" : "HTML, Bootstrap, Javascript",
+        "github" : "https://github.com/satriagerhana88/point-of-sales",
+        "link" : "https://github.com/satriagerhana88/point-of-sales"
+      }
+
+    ]
+  }
+  
