@@ -309,7 +309,8 @@
     "marquee-list" : [
       {
         "id" : 1,
-        "image" : "https://logowik.com/content/uploads/images/adobe-illustrator-cc2069.jpg"
+        "image" : "https://www.adobe.com/content/dam/cc/icons/illustrator.svg",
+        "title" : "adobe illustrator"
       },
       {
         "id" : 2,
