@@ -25,7 +25,7 @@
   
     "personal-data" : [
       {
-        "imgProfile" : "../public/assets/image/img-profile.png",
+        "imgProfile" : "https://i.imgur.com/5sZxTE9.jpg",
         "name" : "Satria Gerhana",
         "nationality" : "Indonesia",
         "address" : "St. Sarijadi, Bandung - Jawa Barat",
