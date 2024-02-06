@@ -43,8 +43,8 @@
         "institution": "Politeknik Komputer Niaga LPKIA",
         "year": "2007 - 2010",
         "certificate" : [
-          "../public/assets/doc/certificateD3.jpg",
-          "../public/assets/doc/certificateTranskrip.jpg"
+          "https://i.imgur.com/Xb9CdYK.jpg",
+          "https://i.imgur.com/FVj04dS.jpg"
         ]
       },
       {
@@ -69,14 +69,14 @@
         "courseName": "ReactJs and Node JS",
         "courseInstitue": "Bootcamp PT Walden Global Services",
         "completeYear": "2022",
-        "certificate": "../public/assets/doc/certificateWGS.jpg"
+        "certificate": "https://i.imgur.com/dY0nuHe.jpg"
       },
       {
         "id": 2,
         "courseName": "Figma UI Animation Design",
         "courseInstitue": "Build With Angga",
         "completeYear": "2021",
-        "certificate": "../public/assets/doc/certificateBWA.jpg"
+        "certificate": "https://i.imgur.com/WuxTuAe.jpg"
       },
       {
         "id": 3,
@@ -84,8 +84,8 @@
         "courseInstitue": "Dicoding Indonesia",
         "completeYear": "2021",
         "certificate": [
-          "../public/assets/doc/certificateDicodingFE-1.jpg",
-          "../public/assets/doc/certificateDicodingFE-2.jpg"
+          "https://i.imgur.com/pJW7PT0.jpg",
+          "https://i.imgur.com/VEufRgL.jpg"
         ]
       },
       {
@@ -93,7 +93,7 @@
         "courseName": "Fundamentals Web Programming",
         "courseInstitue": "Dicoding Indonesia",
         "completeYear": "2020",
-        "certificate": "../public/assets/doc/certificateDicodingWebFundamentals.jpg"
+        "certificate": "https://i.imgur.com/DVNGHzn.jpg"
       },
       {
         "id": 5,
@@ -101,9 +101,9 @@
         "courseInstitue": "Dicoding Indonesia",
         "completeYear": "2020",
         "certificate": [
-          "../public/assets/doc/certificateDicodingKotlin-1.jpg",
-          "../public/assets/doc/certificateDicodingKotlin-2(1).jpg",
-          "../public/assets/doc/certificateDicodingKotlin-2(2).jpg"
+          "https://i.imgur.com/2jhbGOP.jpg",
+          "https://i.imgur.com/kFQBQEc.jpg",
+          "https://i.imgur.com/qBpvX1D.jpg"
         ]
       },
       {
@@ -112,8 +112,8 @@
         "courseInstitue": "Microsoft Technology Associate",
         "completeYear": "2019",
         "certificate": [
-          "../public/assets/doc/certificateHTML-1.jpg",
-          "../public/assets/doc/certificateHTML-2.jpg"
+          "https://i.imgur.com/kKkBUBV.jpg",
+          "https://i.imgur.com/Q9vH9fP.jpg"
         ]
       },
       {
@@ -122,8 +122,8 @@
         "courseInstitue": "Binus Center Bandung",
         "completeYear": "2019",
         "certificate": [
-          "../public/assets/doc/certificateBinus-1.jpg",
-          "../public/assets/doc/certificateBinus-2.jpg"
+          "https://i.imgur.com/x1qOYnW.jpg",
+          "https://i.imgur.com/F0H1Ndm.jpg"
         ]
       }
     ],
@@ -162,7 +162,7 @@
         "position" : "Administrasi Staff",
         "year" : "2011 - 2012",
         "description" : "Make monthly reports. Recap of village activity reports. Write a letter to the Office or Village. Create SPPJ. Make attendance/attendance recaps.",
-        "certificate" : "../public/assets/doc/CertificateBPMPD.jpg"
+        "certificate" : "https://i.imgur.com/uN1KrrF.jpg"
       },
       {
         "id": 5,
@@ -170,7 +170,7 @@
         "position" : "EDP IT Support",
         "year" : "2011 - 2011",
         "description" : "Computer repair/maintenance, both hardware and software. Improvement of store network. Enter shop data. Ensure all store transactions run smoothly.",
-        "certificate" : "../public/assets/doc/certificateIndomaret.jpg"
+        "certificate" : "https://i.imgur.com/aBtkEDp.jpg"
       }
     ],
   
@@ -366,8 +366,8 @@
         "desc" : "Software and applications to control all types of your business transactions",
         "category" : "Mobile App",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "../public/assets/image/Img-card-1.png",
-        "image" : "../public/assets/image/ImgDetail-card-1.jpg",
+        "thumb" : "https://i.imgur.com/vHfv4it.png",
+        "image" : "https://i.imgur.com/5cBeUbr.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript, UI Design",
         "github" : "https://github.com/satriagerhana88/point-of-sales",
@@ -379,8 +379,8 @@
         "desc" : "The application website was created for employees to make it easier to submit online certification",
         "category" : "Dashboard",
         "type" : "UI/UX Design",
-        "thumb" : "../public/assets/image/Img-card-2.png",
-        "image" : "../public/assets/image/ImgDetail-card-2.jpg",
+        "thumb" : "https://i.imgur.com/Qf0ReJo.png",
+        "image" : "https://i.imgur.com/GSUxpOV.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript, ReactJS, Tailwindcss, UI Design",
         "github" : "https://github.com/satriagerhana88/point-of-sales",
@@ -392,8 +392,8 @@
         "desc" : "This mobile application is used when the user wants to see several menus from several shops.",
         "category" : "Ecommrce App",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "../public/assets/image/Img-card-3.png",
-        "image" : "../public/assets/image/ImgDetail-card-3.jpg",
+        "thumb" : "https://i.imgur.com/AlZ0H0r.png",
+        "image" : "https://i.imgur.com/WWCOhn6.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
         "github" : "https://github.com/satriagerhana88/point-of-sales",
@@ -405,7 +405,7 @@
         "desc" : "An application that is used to explain polish products and users can buy or approve the purchase of the polish product.",
         "category" : "Web App",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "../public/assets/image/Img-card-4.png",
+        "thumb" : "https://i.imgur.com/jBAV81E.png",
         "image" : "../public/assets/image/ImgDetail-card-3.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
@@ -418,7 +418,7 @@
         "desc" : "The application website was created for employees to make it easier to submit online certification.",
         "category" : "Landing Page",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "../public/assets/image/Img-card-5.png",
+        "thumb" : "https://i.imgur.com/sxDiPhe.png",
         "image" : "../public/assets/image/ImgDetail-card-3.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
@@ -431,7 +431,7 @@
         "desc" : "HTML5 gaming e-commerce website. Apart from buying games, the website can also be used for developers to upload games to sell.",
         "category" : "Dashboard",
         "type" : "Slicing",
-        "thumb" : "../public/assets/image/Img-card-6.png",
+        "thumb" : "https://i.imgur.com/oC5r8Wm.png",
         "image" : "../public/assets/image/ImgDetail-card-3.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, Bootstrap, Javascript",
@@ -444,7 +444,7 @@
         "desc" : "HTML5 gaming e-commerce website. Apart from buying games, the website can also be used for developers to upload games to sell.",
         "category" : "Ecommrce App",
         "type" : "Slicing",
-        "thumb" : "../public/assets/image/Img-card-6.png",
+        "thumb" : "https://i.imgur.com/oC5r8Wm.png",
         "image" : "../public/assets/image/ImgDetail-card-3.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, Bootstrap, Javascript",
