@@ -383,8 +383,8 @@
         "image" : "https://i.imgur.com/GSUxpOV.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript, ReactJS, Tailwindcss, UI Design",
-        "github" : "https://github.com/satriagerhana88/point-of-sales",
-        "link" : "https://github.com/satriagerhana88/point-of-sales"
+        "github" : "",
+        "link" : ""
       },
       {
         "id" : 3,
@@ -396,8 +396,8 @@
         "image" : "https://i.imgur.com/WWCOhn6.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
-        "github" : "https://github.com/satriagerhana88/point-of-sales",
-        "link" : "https://github.com/satriagerhana88/point-of-sales"
+        "github" : "",
+        "link" : ""
       },
       {
         "id" : 4,
@@ -422,8 +422,8 @@
         "image" : "",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
-        "github" : "https://github.com/satriagerhana88/point-of-sales",
-        "link" : "https://github.com/satriagerhana88/point-of-sales"
+        "github" : "",
+        "link" : ""
       },
       {
         "id" : 6,
@@ -435,8 +435,8 @@
         "image" : "",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, Bootstrap, Javascript",
-        "github" : "https://github.com/satriagerhana88/point-of-sales",
-        "link" : "https://github.com/satriagerhana88/point-of-sales"
+        "github" : "",
+        "link" : ""
       },
       {
         "id" : 7,
@@ -448,8 +448,8 @@
         "image" : "",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, Bootstrap, Javascript",
-        "github" : "https://github.com/satriagerhana88/point-of-sales",
-        "link" : "https://github.com/satriagerhana88/point-of-sales"
+        "github" : "",
+        "link" : ""
       }
 
     ]
