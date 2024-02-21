@@ -382,9 +382,9 @@
         "thumb" : "https://i.imgur.com/Qf0ReJo.png",
         "image" : "https://i.imgur.com/GSUxpOV.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
-        "tech" : "HTML, CSS, Javascript, ReactJS, Tailwindcss, UI Design",
-        "github" : "https://github.com/satriagerhana88/sandbox-gotbeef-FB",
-        "link" : "https://satriagerhana-portfolio-sandbox-fb.netlify.app/"
+        "tech" : "UI Design",
+        "github" : "",
+        "link" : ""
       },
       {
         "id" : 3,
@@ -396,8 +396,8 @@
         "image" : "https://i.imgur.com/WWCOhn6.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
-        "github" : "",
-        "link" : ""
+        "github" : "https://github.com/satriagerhana88/sandbox-gotbeef-FB",
+        "link" : "https://satriagerhana-portfolio-sandbox-fb.netlify.app/"
       },
       {
         "id" : 4,
