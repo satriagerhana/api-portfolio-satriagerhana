@@ -366,7 +366,7 @@
         "desc" : "Software and applications to control all types of your business transactions",
         "category" : "Mobile App",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "https://imgur.com/ymPHCya.png",
+        "thumb" : "https://imgur.com/wAyKb4S.png",
         "image" : "https://i.imgur.com/5cBeUbr.jpeg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript, UI Design",
@@ -379,7 +379,7 @@
         "desc" : "The application website was created for employees to make it easier to submit online certification",
         "category" : "Dashboard",
         "type" : "UI/UX Design",
-        "thumb" : "https://imgur.com/CwsPcUI.png",
+        "thumb" : "https://imgur.com/pcHT1GD.png",
         "image" : "https://i.imgur.com/GSUxpOV.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "UI Design",
@@ -392,7 +392,7 @@
         "desc" : "This mobile application is used when the user wants to see several menus from several shops.",
         "category" : "Ecommrce App",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "https://imgur.com/irOT5K9.png",
+        "thumb" : "https://imgur.com/iJudjp8.png",
         "image" : "https://i.imgur.com/WWCOhn6.jpg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
@@ -405,7 +405,7 @@
         "desc" : "An application that is used to explain polish products and users can buy or approve the purchase of the polish product.",
         "category" : "Web App",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "https://i.imgur.com/jBAV81E.png",
+        "thumb" : "https://imgur.com/8RPj7p8.png",
         "image" : "https://imgur.com/hlDhV6u.jpeg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
@@ -418,7 +418,7 @@
         "desc" : "The application website was created for employees to make it easier to submit online certification.",
         "category" : "Landing Page",
         "type" : "UI/UX Design & Slicing",
-        "thumb" : "https://i.imgur.com/sxDiPhe.png",
+        "thumb" : "https://imgur.com/hk4R6k1.png",
         "image" : "https://imgur.com/AeDgfLQ.jpeg",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, CSS, Javascript",
@@ -431,12 +431,12 @@
         "desc" : "HTML5 gaming e-commerce website. Apart from buying games, the website can also be used for developers to upload games to sell.",
         "category" : "Dashboard",
         "type" : "Slicing",
-        "thumb" : "https://i.imgur.com/oC5r8Wm.png",
+        "thumb" : "https://imgur.com/uMLNaRh.png",
         "image" : "",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, Bootstrap, Javascript",
         "github" : "",
-        "link" : ""
+        "link" : "https://digifive-store.netlify.app/1-developer-dashboard"
       },
       {
         "id" : 7,
@@ -444,12 +444,12 @@
         "desc" : "HTML5 gaming e-commerce website. Apart from buying games, the website can also be used for developers to upload games to sell.",
         "category" : "Ecommrce App",
         "type" : "Slicing",
-        "thumb" : "https://i.imgur.com/oC5r8Wm.png",
+        "thumb" : "https://imgur.com/y00j0aq.png",
         "image" : "",
         "tools" : "Figma, Vs Code, Adobe Ilustrator",
         "tech" : "HTML, Bootstrap, Javascript",
         "github" : "",
-        "link" : ""
+        "link" : "https://digifive-store.netlify.app/1-homepage.html"
       }
 
     ]
